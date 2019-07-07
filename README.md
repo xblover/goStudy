@@ -1,1 +1,1 @@
-# goStudy
+# my go study journey
